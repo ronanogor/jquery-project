@@ -1,0 +1,32 @@
+{
+  "recipes": [
+    {
+      "id": 0,
+      "name": "tomato sauce",
+      "iconUrl": "https://cdn.pixabay.com/user/2017/10/12/20-30-21-88_250x250.jpg",
+      "nbGuests": 4,
+      "instructions": "instructions",
+
+      "ingredients": [
+        {
+          "name": "sugar",
+          "quantity": 1.2,
+          "unit": "GRAM",
+          "iconUrl": "https://cdn.pixabay.com/user/2017/10/12/20-30-21-88_250x250.jpg"
+        },
+        {
+          "name": "milk",
+          "quantity": 2,
+          "unit": "LITRE",
+          "iconUrl": "https://cdn.pixabay.com/user/2017/10/12/20-30-21-88_250x250.jpg"
+        },
+        {
+          "name": "eggs",
+          "quantity": 4,
+          "unit": "UNIT",
+          "iconUrl": "https://cdn.pixabay.com/user/2017/10/12/20-30-21-88_250x250.jpg"
+        }
+      ]
+    }
+  ]
+}
